@@ -1,3 +1,4 @@
 modules
 Puppetfile.lock
 .tmp/
+.DS_Store
